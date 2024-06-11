@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.jpeg"
+    src="./assets/cover.jpg"
     width="400"  
 />
 </p>
@@ -53,7 +53,7 @@ https://lexica.art/：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via https://lexica.art/
 
 ## 📚 Materiais
 
