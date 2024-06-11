@@ -44,11 +44,11 @@ ChatGPT：
 | conteúdo | Faça um texto para ebook , com foco em Pandas, listando os principais comandos , funções e métodos com exemplos em código {Regras}.  Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico. |
 
 
-Midjourney：
+https://lexica.art/：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Text text male, green and black futuristic, cyberpunk coder, cutting-edge software for mathematical analysis of football games. it skillfully operates a computer, processing intricate statistics and data related to football matches. in the background, a mesmerizing rain of binary code, creating a matrix-style atmosphere. the image is in 8k resolution, hyper-realistic, and hyper-detailed. the neon lights cast vibrant glows on the male's figure, and volumetric lighting enhances the cyberpunk ambiance. |
 
 ## ✨ Features
 
